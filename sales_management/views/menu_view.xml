@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<odoo>
+     <menuitem id="menu_reference_id_root" name="Reference ID" sequence="5" />
+
+    <menuitem id="ref_menus" name="Reference" sequence="5" parent="menu_reference_id_root"
+              action="action_reference_id" />
+</odoo>
+
