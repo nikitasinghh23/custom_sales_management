@@ -11,7 +11,6 @@
     'depends': ['sale','base'],
     'data': [
         'security/ir.model.access.csv',
-        # 'security/record_rule.xml',
         'views/sale_order_view.xml',
         'views/sale_invoice_view.xml',
         # 'views/menu_view.xml'
